@@ -1,0 +1,15 @@
+Race_id;Year;Round;RaceName;Country;Session
+2026025;2026;2;Chinese Grand Prix;China;Race
+2026015;2026;1;Australian Grand Prix;Australia;Race
+2026035;2026;3;Japanese Grand Prix;Japan;Race
+2026045;2026;4;Miami Grand Prix;United States;Race
+2026055;2026;5;Canadian Grand Prix;Canada;Race
+2026065;2026;6;Monaco Grand Prix;Monaco;Race
+2026075;2026;7;Barcelona Grand Prix;Spain;Race
+2026024;2026;2;Chinese Grand Prix;China;Qualifying
+2026014;2026;1;Australian Grand Prix;Australia;Qualifying
+2026034;2026;3;Japanese Grand Prix;Japan;Qualifying
+2026044;2026;4;Miami Grand Prix;United States;Qualifying
+2026054;2026;5;Canadian Grand Prix;Canada;Qualifying
+2026064;2026;6;Monaco Grand Prix;Monaco;Qualifying
+2026074;2026;7;Barcelona Grand Prix;Spain;Qualifying
