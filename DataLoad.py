@@ -567,5 +567,5 @@ def load_qualifying(race, ses, year):
 ## start code execution
 
 
-for race in range(1, 8):
-    load_qualifying(race, 4, 2026)
+for race in range(7, 8):
+    load_race(race, 5, 2026)
